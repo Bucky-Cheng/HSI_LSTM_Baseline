@@ -8,7 +8,7 @@ Only use the 'Close' price to Time Series Predict, use the LSTM, the result is n
 
 Can not good to predict the turning point, so if predict 10 days price, if one day mistake the turning point, the prediction is far from real price.
 
-Still looking for the solution...
+Still looking for the solution....
 
 # Future 
 
